@@ -1,0 +1,14 @@
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.Properties.Resources.resources
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.csproj.GenerateResource.cache
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\AccesoDatos.exe.config
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\AccesoDatos.exe
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.exe
+C:\Users\Smerlin\Documents\GitHub\Interfaz\Interfaz\AccesoDatos\obj\Debug\AccesoDatos.pdb
